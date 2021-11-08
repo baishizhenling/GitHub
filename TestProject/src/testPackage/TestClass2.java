@@ -4,11 +4,11 @@ package testPackage;
 /**
  * comment<br><br> 
  *
- * <p>ƒNƒ‰ƒX–¼ÌF title</p>
+ * <p>ã‚¯ãƒ©ã‚¹åç§°ï¼š title</p>
  *
- * <p>’˜ìŒ F Copyright (c) 2006 EnterSystem CO.,LTD. All Rights Reserved.</p>
+ * <p>è‘—ä½œæ¨©ï¼š Copyright (c) 2006 EnterSystem CO.,LTD. All Rights Reserved.</p>
  *
- * <p>XV—š—ğF
+ * <p>æ›´æ–°å±¥æ­´ï¼š
  * <pre>
  *     VerNo.       author           update     comment
  *     version      user             2021/11/08 comment
@@ -20,15 +20,6 @@ package testPackage;
 //------------------------------------------------------------------------------
 public class TestClass2 {
 
-	//--------------------------------------------------------------------------
-	/**
-	 * comment<br><br>
-	 *
-	 * <p>ƒƒ\ƒbƒh–¼ÌF title</p>
-	 *
-	 * @param args
-	 */
-	//--------------------------------------------------------------------------
 	public static void main(String[] args) {
 		System.out.println( "Test");
 
