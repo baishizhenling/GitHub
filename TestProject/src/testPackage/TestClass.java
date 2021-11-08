@@ -2,13 +2,13 @@ package testPackage;
 
 //------------------------------------------------------------------------------
 /**
- * ãƒ†ã‚¹ãƒˆç”¨ãƒ¡ã‚¤ãƒ³ã‚¯ãƒ©ã‚¹<br><br> 
+ * comment<br><br> 
  *
- * <p>ã‚¯ãƒ©ã‚¹åç§°ï¼š title</p>
+ * <p>ƒNƒ‰ƒX–¼ÌF title</p>
  *
- * <p>è‘—ä½œæ¨©ï¼š Copyright (c) 2006 EnterSystem CO.,LTD. All Rights Reserved.</p>
+ * <p>’˜ìŒ F Copyright (c) 2006 EnterSystem CO.,LTD. All Rights Reserved.</p>
  *
- * <p>æ›´æ–°å±¥æ­´ï¼š
+ * <p>XV—š—ğF
  * <pre>
  *     VerNo.       author           update     comment
  *     version      user             2021/11/08 comment
@@ -24,7 +24,7 @@ public class TestClass {
 	/**
 	 * comment<br><br>
 	 *
-	 * <p>ãƒ¡ã‚½ãƒƒãƒ‰åç§°ï¼š title</p>
+	 * <p>ƒƒ\ƒbƒh–¼ÌF title</p>
 	 *
 	 * @param args
 	 */
