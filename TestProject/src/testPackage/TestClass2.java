@@ -24,7 +24,7 @@ public class TestClass2 {
 	/**
 	 * 文字化け検証<br><br>
 	 *
-	 * <p>メソッド名称： title</p>
+	 * <p>メソッド名称： 文字化け検証</p>
 	 *
 	 * @param args
 	 */
