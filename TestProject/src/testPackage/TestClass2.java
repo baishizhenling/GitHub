@@ -4,7 +4,7 @@ package testPackage;
 /**
 * comment<br><br> 
 *
-* <p>クラス名称： title</p>
+* <p>クラス名称： 文字化け検証</p>
 *
 * <p>著作権： Copyright (c) 2006 EnterSystem CO.,LTD. All Rights Reserved.</p>
 *
