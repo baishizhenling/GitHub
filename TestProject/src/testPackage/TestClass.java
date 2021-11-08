@@ -15,7 +15,7 @@ package testPackage;
  * </pre>
  * </p>
  * @author user
- * @version version
+ * @version version 00.00.01
  */
 //------------------------------------------------------------------------------
 public class TestClass {
